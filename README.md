@@ -38,7 +38,7 @@ This script downloads files from specified Telegram channels using the Telegram 
    API_ID = your_api_id
    API_HASH = your_api_hash
    PHONE_NUMBER = your_phone_number
-   CHANNEL_USERNAMES = channel1,channel2,channel3  # Comma-separated list of channel usernames
+   CHANNEL_USERNAME = channelname  # Comma-separated list of channel username
    FILE_EXTENSIONS = .zip,.7z,.txt,.rar  # Comma-separated list of file extensions to download
    ```
 
