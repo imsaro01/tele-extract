@@ -142,12 +142,3 @@ For any questions or issues, please open an issue on the GitHub repository (if a
 ---
 
 Thank you for using the tele-extract! If you find this script useful, please consider giving it a star on GitHub or sharing it with others.
-```
-
-### Instructions for Saving
-
-1. **Open a text editor**: Use any text editor like Notepad, VSCode, or Sublime Text.
-2. **Copy and paste**: Copy the above content and paste it into the editor.
-3. **Save the file**: Save the file as `README.md`.
-
-This README file provides a complete overview of the script, installation instructions, and licensing details. It also includes Apache 2.0 License terms for clarity on usage and redistribution rights.
